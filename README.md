@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01avi&label=Profile%20views&color=0e75b6&style=flat" alt="01avi" /> </p>
 
-- Data Structure and Algorithm with **C-Programming/Java**
+-  ✔ Data Structure and Algorithm with **C-Programming/Java**
 
 - 🌱 I’m currently learning and exploring **Bootstrap**
 
-- 👯 I’m looking to collaborate on **Java**
+- 👯 I’m looking to work on **Java spring Framework**
 
 - 🤝 I’m looking for help with **Honest fellow**
 
