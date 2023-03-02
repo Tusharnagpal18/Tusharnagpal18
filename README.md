@@ -13,6 +13,6 @@
 
 - 🤝 I’m looking for help with **Honest fellow**
 
-- 💬 Ask me about **HTML || CSS || C || JAVA || SQL
+- 💬 Ask me about **HTML || CSS || C || JAVA || SQL**
 
 - 📫 Reach me out at  **nagpalt1810@gmail.com**
