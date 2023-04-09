@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
+
 <h1 align="center">Hi 👋, I'm Tushar Nagpal</h1>
 <h3 align="center">A passionate Java Programmer and Web Developer</h3>
 
