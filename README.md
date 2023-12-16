@@ -13,7 +13,7 @@
   
 - 🌱 I’m currently learning and exploring **Bootstrap & Spring Framework**
 
-- 💬 Ask me about **  WEB  DEVELOPMENT || DSA || JAVA || C || MYSQL**
+- 💬 Ask me about **WEB  DEVELOPMENT || DSA || JAVA || C || MYSQL**
 
 - 📫 Reach me at 👉 **nagpalt1810@gmail.com**
 
