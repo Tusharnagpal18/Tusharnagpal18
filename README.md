@@ -2,7 +2,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
 
 <h1 align="center">Hey 👋, I'm Tushar Nagpal</h1>
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Java+Programmer;Front+End+Development;MCA"/>
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Java+Programmer;Web+Development;MCA"/>
 <h3 align="center">A passionate Java Programmer and Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharnagpal18&label=Profile%20views&color=0e75b6&style=flat" alt="tusharnagpal18" /> </p>
