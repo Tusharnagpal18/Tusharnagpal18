@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
+
 
 <h1 align="center">Hey 👋, I'm Tushar Nagpal</h1>
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Java+Programmer;Web+Development;MCA"/>
@@ -22,11 +22,11 @@
 <a href="https://linkedin.com/in/tushar-nagpal18" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="tushar-nagpal18" />
 </a>
-  <a href="https://leetcode.com/in/Tushar-18" target="_blank">
+  <a href="https://leetcode.com/Tushar-18" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Leetcode-fff?style=flat-square&logo=Leetcode&logoColor=yellow" alt="tushar-18" />
 </a>
- <a href="https://hackerrank.com/in/Tushar_nagpal" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Hackerrank-32C766?style=flat-square&logo=hackerrank&logoColor=black" alt="tushar_nagpal" />
+ <a href="https://hackerrank.com/profile/Tushar_nagpal" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Hackerrank-32C766?style=flat-square&logo=hackerrank&logoColor=white" alt="tushar_nagpal" />
 </a>
  <a href="mailto:nagpalt1810@gmail.com" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="nagpalt1810@gmail.com" /></a>
