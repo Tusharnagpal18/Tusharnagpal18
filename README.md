@@ -23,7 +23,7 @@
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="tushar-nagpal18" />
 </a>
   <a href="https://leetcode.com/Tushar-18" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Leetcode-fff?style=flat-square&logo=Leetcode&logoColor=yellow" alt="tushar-18" />
+  <img align="center" src="https://img.shields.io/badge/-Leetcode-000?style=flat-square&logo=Leetcode&logoColor=yellow" alt="tushar-18" />
 </a>
  <a href="https://hackerrank.com/profile/Tushar_nagpal" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Hackerrank-32C766?style=flat-square&logo=hackerrank&logoColor=white" alt="tushar_nagpal" />
