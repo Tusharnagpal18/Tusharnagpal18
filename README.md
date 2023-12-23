@@ -18,13 +18,20 @@
 - 📫 Reach me at 👉 **nagpalt1810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tushar-nagpal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-nagpal18" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tushar_nagpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tushar_nagpal" height="30" width="40" /></a>
-<!--   https://leetcode.com/Tushar-18/ -->
-<a href="https://leetcode.com/Tushar-18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar-nagpal18" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/tushar-nagpal18" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="tushar-nagpal18" />
+</a>
+  <a href="https://leetcode.com/in/Tushar-18" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Leetcode-fff?style=flat-square&logo=Leetcode&logoColor=yellow" alt="tushar-18" />
+</a>
+ <a href="https://hackerrank.com/in/Tushar_nagpal" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Hackerrank-32C766?style=flat-square&logo=hackerrank&logoColor=black" alt="tushar_nagpal" />
+</a>
+ <a href="mailto:nagpalt1810@gmail.com" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="nagpalt1810@gmail.com" /></a>
 
-  <a href="https://www.instagram.com/18nagpal_tushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar_nagpal" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
