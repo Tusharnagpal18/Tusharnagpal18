@@ -11,7 +11,7 @@
 
 - ✔ Data Structure and Algorithm with **Java/C-programming**
   
-- 🌱 I’m currently learning and exploring ** Full stack Development**
+- 🌱 I’m currently learning and exploring **MERN Stack**
 
 - 💬 Ask me about **WEB  DEVELOPMENT || DSA || JAVA || C || MYSQL**
 
