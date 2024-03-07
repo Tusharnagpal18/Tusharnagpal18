@@ -2,8 +2,8 @@
 
 
 <h1 align="center">Hey 👋, I'm Tushar Nagpal</h1>
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Java+Programmer;Web+Development;MCA"/>
-<h3 align="center">A passionate Java Programmer and Web Developer</h3>
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Web+Development;Java+Programming;MCA"/>
+<h3 align="center">A passionate Web Developer and Java Programmer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharnagpal18&label=Profile%20views&color=0e75b6&style=flat" alt="tusharnagpal18" /> </p>
 <img align="right" alt="Coder" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="400" />
